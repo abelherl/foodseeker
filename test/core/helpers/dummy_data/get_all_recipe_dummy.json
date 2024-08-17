@@ -1,0 +1,130 @@
+[
+  {
+    "id": "a43e4b78-4f55-463d-8e7c-d5b62c652de7",
+    "name": "Keto Easy Egg Fast Coffee",
+    "tags": [
+      "beef-free",
+      "beverages",
+      "breakfast",
+      "chicken-free",
+      "fish-free",
+      "gluten-free",
+      "peanut-free",
+      "pork-free",
+      "quick-easy",
+      "shellfish-free",
+      "soy-free",
+      "vegetarian",
+      "wheat-free"
+    ],
+    "description": "You will love this simple Keto egg fast coffee recipe! Strongly brewed coffee is blended with one raw egg. Since the Egg Fast diet requires one to eat one egg within 30 minutes of waking up, this recipe is the perfect way to get the first egg into your day. Adding an egg into coffee might sound strange. However, it adds a beautiful creaminess with no flavor. Ensure the coffee is piping hot (around 195 F to 205 F) as this will kill any bacteria in the egg. The recipe also includes butter which is so delicious in coffee and complies with Egg Fast rules!\n\n### Can I add any flavorings?\n\nYes, you can add some sugar-free syrups to the coffee on the Egg Fast diet as long as the total net carbs are <1 g.\n\n### At what temperature is salmonella in eggs cured?\n\nThe egg should reach 160 F. If you are concerned about salmonella. Feel free to take the temperature of the coffee with the egg blended into it. Briefly microwave the mixture until it hits 160 F.\n\n### Serving suggestions\n\nThis simple egg fast coffee recipe would be a perfect companion to these Keto Egg Fast Cinnamon Sugar Crepes!\n\nhttps://www.carbmanager.com/recipe-detail/ug:d5e67a4a6ffa43c0b554c4a5a75637ec/keto-eggfast-cinnamon-sugar-crepes",
+    "prepareTime": 5,
+    "cookTime": 0,
+    "ingredients": [
+      {
+        "name": "Coffee",
+        "servingSize": {
+          "units": "fl oz",
+          "qty": 6,
+          "grams": 177.6,
+          "scale": 6
+        }
+      },
+      {
+        "name": "Raw egg",
+        "servingSize": {
+          "units": "large",
+          "qty": 1,
+          "grams": 50,
+          "scale": 1
+        }
+      },
+      {
+        "name": "Butter Salted",
+        "servingSize": {
+          "units": "tbsp",
+          "qty": 1,
+          "grams": 14,
+          "scale": 0.062
+        }
+      }
+    ],
+    "steps": [
+      "Brew very robust coffee and place it into a blender cup.\n",
+      "Add the egg and salted butter. \n",
+      "Blend with an immersion blender or small blender just until smooth. You do not want to blend too much as to cool the coffee down.",
+      "Pour into a heated cup and serve immediately!\n"
+    ],
+    "servings": 1,
+    "servingSizes": [
+      {
+        "scale": 1,
+        "qty": 1,
+        "grams": 240.97,
+        "units": "glass",
+        "originalWeight": 8.5,
+        "originalWeightUnits": "oz"
+      }
+    ],
+    "nutrients": {
+      "caloriesKCal": 179.656,
+      "caloriesKJ": 751.681,
+      "totalCarbs": 1.403,
+      "diabetesCarbsADA": 1.403,
+      "netCarbs": 0.563,
+      "diabetesCarbs": 0.566,
+      "fiber": 0.835,
+      "starch": 0,
+      "sugar": 0.568,
+      "addedSugar": 0,
+      "sugarAlcohols": 0.005,
+      "protein": 6.622,
+      "fat": 16.696,
+      "transFat": 0,
+      "monousatFat": 5.007,
+      "polyunsatFat": 1.135,
+      "omega3Fat": 0.035,
+      "omega6Fat": 0.674,
+      "saturatedFat": 8.829,
+      "cholesterol": 216.6,
+      "vitaminA": 179.625,
+      "vitaminC": 0,
+      "vitaminD": 1.088,
+      "vitaminE": 0.858,
+      "vitaminK": 1.308,
+      "vitaminB1": 0.059,
+      "vitaminB2": 0.397,
+      "vitaminB3": 0.377,
+      "vitaminB5": 1.15,
+      "vitaminB6": 0.063,
+      "vitaminB12": 0.579,
+      "potassium": 153.384,
+      "magnesium": 10.608,
+      "calcium": 31.912,
+      "iron": 0.616,
+      "zinc": 0.573,
+      "copper": 0.011,
+      "phosphorus": 94.688,
+      "sodium": 155.572,
+      "selenium": 15.54,
+      "folate": 25.972,
+      "choline": 151.518,
+      "alcohol": 0,
+      "caffeine": 71.04,
+      "gluten": 0,
+      "manganese": 0.054,
+      "conjugatedLinoleicAcid": 0.001,
+      "phyticAcid": 12.432,
+      "xylitol": 0,
+      "isomalt": 0,
+      "sorbitol": 0,
+      "maltitol": 0,
+      "lactitol": 0,
+      "erythritol": 0,
+      "pinitol": 0,
+      "inositol": 0.005,
+      "mannitol": 0
+    },
+    "image": "https://tinyurl.com/2p82zzca/a43e4b78-4f55-463d-8e7c-d5b62c652de7.png"
+  }
+]

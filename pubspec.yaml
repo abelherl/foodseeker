@@ -5,17 +5,32 @@ publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.6 <4.0.0'
+  sdk: '>=2.18.7 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.2
+  cached_network_image: any
+  cupertino_icons: any
+  dartz: any
+  equatable: any
+  flutter_bloc: any
+  get_it: any
+  go_router: any
+  hive: any
+  http: any
+  path_provider: any
+  rxdart: any
+  window_manager: any
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  bloc_test: any
+  build_runner: any
+  flutter_lints: any
+  mockito: any
+  mocktail: any
 
 flutter:
   uses-material-design: true
